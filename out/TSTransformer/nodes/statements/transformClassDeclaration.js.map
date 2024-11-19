@@ -1,0 +1,1 @@
+{"version":3,"file":"transformClassDeclaration.js","sourceRoot":"","sources":["../../../../src/TSTransformer/nodes/statements/transformClassDeclaration.ts"],"names":[],"mappings":";;AAIA,8DAEC;AALD,0FAAwG;AAGxG,SAAgB,yBAAyB,CAAC,KAAqB,EAAE,IAAyB;IACzF,OAAO,IAAA,6DAA6B,EAAC,KAAK,EAAE,IAAI,CAAC,CAAC,UAAU,CAAC;AAC9D,CAAC"}

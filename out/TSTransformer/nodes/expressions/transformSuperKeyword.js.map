@@ -1,0 +1,1 @@
+{"version":3,"file":"transformSuperKeyword.js","sourceRoot":"","sources":["../../../../src/TSTransformer/nodes/expressions/transformSuperKeyword.ts"],"names":[],"mappings":";;;;;AAEA,sDAEC;AAJD,mEAAuC;AAEvC,SAAgB,qBAAqB;IACpC,OAAO,kBAAI,CAAC,OAAO,CAAC,KAAK,CAAC;AAC3B,CAAC"}

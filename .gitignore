@@ -3,7 +3,6 @@ coverage.lcov
 .nyc_output
 coverage
 node_modules
-out
 .DS_Store
 .history
 .vscode/launch.json

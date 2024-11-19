@@ -1,0 +1,1 @@
+{"version":3,"file":"realPathExistsSync.js","sourceRoot":"","sources":["../../../src/Shared/util/realPathExistsSync.ts"],"names":[],"mappings":";;;;;AAEA,gDAIC;AAND,wDAA0B;AAE1B,SAAgB,kBAAkB,CAAC,MAAc;IAChD,IAAI,kBAAE,CAAC,cAAc,CAAC,MAAM,CAAC,EAAE,CAAC;QAC/B,OAAO,kBAAE,CAAC,YAAY,CAAC,MAAM,CAAC,CAAC;IAChC,CAAC;AACF,CAAC"}

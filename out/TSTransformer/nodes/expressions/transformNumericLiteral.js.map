@@ -1,0 +1,1 @@
+{"version":3,"file":"transformNumericLiteral.js","sourceRoot":"","sources":["../../../../src/TSTransformer/nodes/expressions/transformNumericLiteral.ts"],"names":[],"mappings":";;;;;AAIA,0DAIC;AARD,mEAAuC;AAIvC,SAAgB,uBAAuB,CAAC,KAAqB,EAAE,IAAuB;IACrF,OAAO,kBAAI,CAAC,MAAM,CAAC,kBAAI,CAAC,UAAU,CAAC,aAAa,EAAE;QACjD,KAAK,EAAE,IAAI,CAAC,OAAO,EAAE;KACrB,CAAC,CAAC;AACJ,CAAC"}

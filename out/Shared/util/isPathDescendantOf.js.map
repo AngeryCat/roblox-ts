@@ -1,0 +1,1 @@
+{"version":3,"file":"isPathDescendantOf.js","sourceRoot":"","sources":["../../../src/Shared/util/isPathDescendantOf.ts"],"names":[],"mappings":";;;;;AAOA,gDAEC;AATD,gDAAwB;AAOxB,SAAgB,kBAAkB,CAAC,QAAgB,EAAE,OAAe;IACnE,OAAO,OAAO,KAAK,QAAQ,IAAI,CAAC,cAAI,CAAC,QAAQ,CAAC,OAAO,EAAE,QAAQ,CAAC,CAAC,UAAU,CAAC,IAAI,CAAC,CAAC;AACnF,CAAC"}
