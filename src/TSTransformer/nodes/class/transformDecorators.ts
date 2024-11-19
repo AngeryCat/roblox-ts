@@ -153,7 +153,7 @@ function transformMethodDecorators(
 	luau.list.pushList(result, initializers);
 	luau.list.pushList(result, transformParameterDecorators(state, member, classId));
 	luau.list.pushList(result, finalizers);
-	return result;
+	return luau.list.make<luau.DoStatement>(luau.create(luau.SyntaxKind.DoStatement, {statements: result}));
 }
 
 function transformPropertyDecorators(
