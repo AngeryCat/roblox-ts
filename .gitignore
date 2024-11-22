@@ -7,7 +7,6 @@ node_modules
 .history
 .vscode/launch.json
 .vscode/settings.json
-out
 /tests/*.rbxl
 /tests/*.rbxl.lock
 /tests/include
