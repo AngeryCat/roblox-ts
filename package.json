@@ -13,7 +13,7 @@
 	"scripts": {
 		"prepublishOnly": "npm run build",
 		"prepare": "npm run build",
-		"build": "tspc -b",
+		"build": "ts-patch install && tsc -b",
 		"build-watch": "tspc -b -w",
 		"eslint": "eslint --flag unstable_ts_config --max-warnings 0",
 		"devlink": "npm run build && cd devlink && npm link",
