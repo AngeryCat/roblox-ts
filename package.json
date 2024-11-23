@@ -12,7 +12,7 @@
 	},
 	"scripts": {
 		"prepublishOnly": "npm run build",
-		"build": "tspc -b",
+		"build": "tspc -b && tspc -b -f",
 		"build-watch": "tspc -b -w",
 		"eslint": "eslint --flag unstable_ts_config --max-warnings 0",
 		"devlink": "npm run build && cd devlink && npm link",

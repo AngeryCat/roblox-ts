@@ -1,0 +1,1 @@
+{"version":3,"file":"getRootDirs.js","sourceRoot":"","sources":["../../../src/Shared/util/getRootDirs.ts"],"names":[],"mappings":";;AAGA,kCAIC;AAPD,qCAA4C;AAG5C,SAAgB,WAAW,CAAC,eAAmC;IAC9D,MAAM,QAAQ,GAAG,eAAe,CAAC,OAAO,CAAC,CAAC,CAAC,CAAC,eAAe,CAAC,OAAO,CAAC,CAAC,CAAC,CAAC,eAAe,CAAC,QAAQ,CAAC;IAChG,IAAA,eAAM,EAAC,QAAQ,CAAC,CAAC;IACjB,OAAO,QAAQ,CAAC;AACjB,CAAC"}

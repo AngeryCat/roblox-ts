@@ -1,0 +1,1 @@
+{"version":3,"file":"transformTypeExpression.js","sourceRoot":"","sources":["../../../../src/TSTransformer/nodes/expressions/transformTypeExpression.ts"],"names":[],"mappings":";;AAIA,0DAUC;AAbD,+DAA0F;AAG1F,SAAgB,uBAAuB,CACtC,KAAqB,EACrB,IAKiC;IAEjC,OAAO,IAAA,yCAAmB,EAAC,KAAK,EAAE,IAAI,CAAC,UAAU,CAAC,CAAC;AACpD,CAAC"}

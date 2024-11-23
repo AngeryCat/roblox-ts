@@ -1,0 +1,1 @@
+{"version":3,"file":"createTransformServices.js","sourceRoot":"","sources":["../../../src/TSTransformer/util/createTransformServices.ts"],"names":[],"mappings":";;AAIA,0DAIC;AARD,sCAA6C;AAI7C,SAAgB,uBAAuB,CAAC,WAA2B;IAClE,MAAM,YAAY,GAAG,IAAI,4BAAY,CAAC,WAAW,CAAC,CAAC;IAEnD,OAAO,EAAE,YAAY,EAAE,CAAC;AACzB,CAAC"}

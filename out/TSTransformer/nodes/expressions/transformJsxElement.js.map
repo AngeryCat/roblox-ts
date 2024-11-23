@@ -1,0 +1,1 @@
+{"version":3,"file":"transformJsxElement.js","sourceRoot":"","sources":["../../../../src/TSTransformer/nodes/expressions/transformJsxElement.ts"],"names":[],"mappings":";;AAIA,kDAEC;AALD,sDAAoE;AAGpE,SAAgB,mBAAmB,CAAC,KAAqB,EAAE,IAAmB;IAC7E,OAAO,IAAA,2BAAY,EAAC,KAAK,EAAE,IAAI,EAAE,IAAI,CAAC,cAAc,CAAC,OAAO,EAAE,IAAI,CAAC,cAAc,CAAC,UAAU,EAAE,IAAI,CAAC,QAAQ,CAAC,CAAC;AAC9G,CAAC"}

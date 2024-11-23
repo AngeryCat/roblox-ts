@@ -1,0 +1,1 @@
+{"version":3,"file":"createTypeCheck.js","sourceRoot":"","sources":["../../../src/TSTransformer/util/createTypeCheck.ts"],"names":[],"mappings":";;;;;AAEA,0CAEC;AAJD,mEAAuC;AAEvC,SAAgB,eAAe,CAAC,UAA2B,EAAE,QAA4B;IACxF,OAAO,kBAAI,CAAC,MAAM,CAAC,kBAAI,CAAC,IAAI,CAAC,kBAAI,CAAC,OAAO,CAAC,IAAI,EAAE,CAAC,UAAU,CAAC,CAAC,EAAE,IAAI,EAAE,QAAQ,CAAC,CAAC;AAChF,CAAC"}

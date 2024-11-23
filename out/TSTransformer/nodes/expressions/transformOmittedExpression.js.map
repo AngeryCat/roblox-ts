@@ -1,0 +1,1 @@
+{"version":3,"file":"transformOmittedExpression.js","sourceRoot":"","sources":["../../../../src/TSTransformer/nodes/expressions/transformOmittedExpression.ts"],"names":[],"mappings":";;;;;AAEA,gEAEC;AAJD,mEAAuC;AAEvC,SAAgB,0BAA0B;IACzC,OAAO,kBAAI,CAAC,GAAG,EAAE,CAAC;AACnB,CAAC"}

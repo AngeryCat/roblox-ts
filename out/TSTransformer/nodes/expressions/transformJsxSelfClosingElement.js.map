@@ -1,0 +1,1 @@
+{"version":3,"file":"transformJsxSelfClosingElement.js","sourceRoot":"","sources":["../../../../src/TSTransformer/nodes/expressions/transformJsxSelfClosingElement.ts"],"names":[],"mappings":";;AAIA,wEAEC;AALD,sDAAoE;AAGpE,SAAgB,8BAA8B,CAAC,KAAqB,EAAE,IAA8B;IACnG,OAAO,IAAA,2BAAY,EAAC,KAAK,EAAE,IAAI,EAAE,IAAI,CAAC,OAAO,EAAE,IAAI,CAAC,UAAU,EAAE,EAAE,CAAC,CAAC;AACrE,CAAC"}
